@@ -8,5 +8,3 @@ if username in users and users[username] == password:
 else:
     print ("username or password incorect please try again")
     exit()
-
-print("!")
